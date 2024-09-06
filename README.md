@@ -1,5 +1,5 @@
 # Streamlit Push Notification Component
-#### `pypi Package made  by [Wambugu Kinyua](https://www.linkedin.com/in/kennedy-wambugu-1b362b26b/)`
+ `pypi Package made by` [Wambugu Kinyua](https://www.linkedin.com/in/kennedy-wambugu-1b362b26b/)
 This repository contains a simple Python script that integrates with [Streamlit](https://streamlit.io) to send push notifications directly from your Streamlit app. The notifications can include a title, body, icon, and sound.
 
 [DEMO APP](https://notifications.streamlit.app)
